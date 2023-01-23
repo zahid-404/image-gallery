@@ -11,7 +11,7 @@ I created a simple web app which shows photos arrange like a Gallery and also ha
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/nb7Zt8C/chrome-Fh-Fsfsk-U00.gif)
+![App Screenshot](https://i.imgur.com/HyW5L1w.gif)
 
 
 ## Tech Stack Used
